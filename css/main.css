@@ -330,30 +330,5 @@ header {
   visibility: hidden;
 }
 
-@media(max-width: 992px){
-  .contact{
-    background: linear-gradient(105deg, rgba(21,31,32,.8) 0%,rgba(21,31,32,.9) 50%);
-  }
-  .contact-form{
-    width: 80%;
-    margin: auto;
-  }
-
-}
 
 /* end of contact  */
-
-
-/* footer  */
-.footer-link{
-  color: #eee;
-  font-size: 13px;
-  transition: all .3s;
-}
-
-.footer-link:hover{
-  color: #70aed2;
-  text-decoration: none;
-
-}
-/* end of footer  */
